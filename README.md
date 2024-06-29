@@ -34,11 +34,13 @@ The e-HMS website is designed to be a standalone application that integrates var
 -   **Patient Module**: Appointment booking, dashboard for viewing appointment status.
 -   **Doctor Module**: Personalized dashboard for managing appointments (accept/reject).
 -   **Admin Module**: User management (add/remove doctors and admins), query handling.
+-   **Frontend**: UI is developed using React and tailwindCSS.
+-   **Backend**: The native server is built using Node and Express with RESTful API design.
 -   **Machine Learning Models**: Predictive analytics for heart disease, diabetes, and thyroid conditions.
 -   **Secure Authentication**: Stateful JWT for managing user sessions.
 -   **Cloud Storage**: Cloudinary for managing image uploads.
 -   **Form Validation**: Zod for validating user inputs.
--   **Data Management**: MongoDB for storing user and appointment data.
+-   **Database**: MongoDB for storing user and appointment data.
 
 ### 3.3 User Classes and Characteristics
 
